@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 - <b>SignupWebsite (HTML + CSS)</b>
-  - [SignupWebsite](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SignupWebsite](https://github.com/Dxhol/SignupWebsite)
 
 <h2> Certifications:</h2>
 
