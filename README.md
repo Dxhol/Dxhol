@@ -1,6 +1,8 @@
 <h1>Hi, I'm Dominic! <br/><a href="https://github.com/dxhol">Web Developer</a>, <a href="https://www.linkedin.com/in/dominic-hollingsworth-1a358725a/">Web Developer Professional</a>, <a href="https://www.youtube.com/@dominichollingsworth">YouTuber</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
+- <b>SignupWebsite (HTML + CSS)</b>
+  - [SignupWebsite](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Certifications:</h2>
 
